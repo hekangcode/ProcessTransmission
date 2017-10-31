@@ -1,0 +1,2 @@
+# ProcessTransmission
+一款多进程间的数据通信，采用ContentProvider共享数据库
